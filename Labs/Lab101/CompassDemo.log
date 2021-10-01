@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo20 -N"E:\GitHub\ksuthars.github.io\PIC\Labs\Lab101\CompassDemo.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\GitHub\ksuthars.github.io\PIC\Labs\Lab101\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "CompassDemo.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_I2C_c34.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	CompassDemo.c
+diagnostics: 58	123	Compiled Successfully	CompassDemo.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RAM (bytes): 85 (24%)  Free RAM (bytes): 267 (76%)	Used RAM (bytes): 85 (24%)  Free RAM (bytes): 267 (76%)
+hint: 0	1144	Used ROM (program words): 844 (10%)  Free ROM (program words): 7348 (90%)	Used ROM (program words): 844 (10%)  Free ROM (program words): 7348 (90%)
+diagnostics: 0	125	Project Linked Successfully	CompassDemo.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'CompassDemo.mcppi' completed: 187 ms	 
+diagnostics: 0	103	Finished successfully: 01 Oct 2021, 19:27:12	CompassDemo.mcppi

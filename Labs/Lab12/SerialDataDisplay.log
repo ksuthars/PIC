@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo20 -N"E:\GitHub\ksuthars.github.io\PIC\Labs\Lab12\SerialDataDisplay.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\GitHub\ksuthars.github.io\PIC\Labs\Lab12\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "SerialDataDisplay.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 123	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	SerialDataDisplay.c
+diagnostics: 3	123	Compiled Successfully	SerialDataDisplay.c
+diagnostics: 0	127	All files Compiled in 141 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
+hint: 0	1144	Used ROM (program words): 1 (1%)  Free ROM (program words): 8191 (99%)	Used ROM (program words): 1 (1%)  Free ROM (program words): 8191 (99%)
+diagnostics: 0	125	Project Linked Successfully	SerialDataDisplay.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'SerialDataDisplay.mcppi' completed: 328 ms	 
+diagnostics: 0	103	Finished successfully: 01 Oct 2021, 17:05:33	SerialDataDisplay.mcppi
