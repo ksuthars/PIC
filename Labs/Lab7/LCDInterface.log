@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo10 -N"E:\GitHub\ksuthars.github.io\PIC\Labs\Lab7\LCDInterface.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\GitHub\ksuthars.github.io\PIC\Labs\Lab7\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "LCDInterface.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	LCDInterface.c
+diagnostics: 73	123	Compiled Successfully	LCDInterface.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RAM (bytes): 52 (15%)  Free RAM (bytes): 300 (85%)	Used RAM (bytes): 52 (15%)  Free RAM (bytes): 300 (85%)
+hint: 0	1144	Used ROM (program words): 437 (5%)  Free ROM (program words): 7755 (95%)	Used ROM (program words): 437 (5%)  Free ROM (program words): 7755 (95%)
+diagnostics: 0	125	Project Linked Successfully	LCDInterface.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'LCDInterface.mcppi' completed: 172 ms	 
+diagnostics: 0	103	Finished successfully: 01 Oct 2021, 14:35:02	LCDInterface.mcppi
